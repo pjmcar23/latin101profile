@@ -4,12 +4,12 @@ Passage to analyze
 
 Highlighting like this indicates words or phrases referred to in grammatical questions.
 
-Erechtheus, Pandīonis fīlius, **habuit** fīliās quattuor. 
-illō tempōre, Eumolpus, Neptūnī fīlius, **vēnit** ad Athēnās **oppugnandās**, sed hic **victus est**.
-Neptūnus, infestus quod fīlius ab Erechtheō **interfectus est**, **dīxit** “Erecthei fīlia **immolanda est**.” 
-itaque Chthonia, fīliārum ūna, **immolāta est**. 
-ceterae sorōrēs sē **interfēcērunt**; 
-ipse Erechtheus ab fulmine **ictus est**.
+*Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor. 
+illō tempōre, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās **oppugnandās**, sed hic **victus est**.
+*Neptūnus*, infestus quod fīlius ab Erechtheō **interfectus est**, **dīxit** “Erecthei fīlia **immolanda est**.” 
+itaque *Chthonia*, fīliārum ūna, **immolāta est**. 
+*ceterae sorōrēs* sē **interfēcērunt**; 
+ipse *Erechtheus* ab fulmine **ictus est**.
 
 ## A. Grammatical Analysis
 
