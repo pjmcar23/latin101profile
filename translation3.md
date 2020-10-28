@@ -20,7 +20,7 @@ Surround all the subjects with one asterisk. (These will display as italic text.
 
 What case is the phrase illō tempōre and why is it in that case?
 
-> The ablative as it is talking about the exact moment that something occurred.
+> The ablative is used to show a separation between Erechtheus and Neptune's son, Eumolpus.
 
 What part of speech is oppugnandās?
 
