@@ -1,8 +1,11 @@
+** Needs correction**
+
+
 # Gerundive 1
 
 ## Questions
 
-For each sentence, answer the following four questions:
+For each sentence answer the following four questions:
 
 a. what is the verb of the sentence?
 
@@ -10,7 +13,7 @@ b. what is the gerundive?
 
 c. what noun or pronoun does the gerundive modify?
 
-d. what is the form of gerundive (gender, case and number) ?
+d. what is the form of gerundive (gender case and number) ?
 
 ## Answers
 
@@ -22,13 +25,13 @@ d. what is the form of gerundive (gender, case and number) ?
 
 > 1c. canem.
 
-> 1d. masculine, accusative, singular.
+> 1d. masculine accusative singular.
 
 2. Atreus mittit Agamemnonem et Menelaum filios ad quaerendum Thyestem.
 
 > 2a. mittit.
 
-> 2b. quaerentum.
+> 2b. quaerentum. **You obviously know the answer: please fix the speling.**
 
 > 2c. Thyestem.
 
