@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 # Gerund-Infinitive
 
 ## Sentences, Questions and Answers
