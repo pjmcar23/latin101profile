@@ -1,23 +1,25 @@
+**Needs revisions**
+
 # Translation 1
 
 ### **Passage to analyze**
 
 Notes on formatting:
 
-Names **`formatted like this`** are names of gods in the nominative case and can be translated simply by reproducing the Latin form (e.g. in your translation **`Chaos`** will appear as “Chaos”). 
-`Highlighting like this` indicates words referred to in grammatical questions.
+Names **formatted like this** are names of gods in the nominative case and can be translated simply by reproducing the Latin form (e.g. in your translation **Chaos** will appear as “Chaos”).
+Highlighting like this indicates words referred to in grammatical questions.
 
-***`Chaos`*** prīmus deōrum **erat**. 
-*Fīliae* `eius`, **`Nox`** et Terra, māter omnium hominum, **erant**. 
-`Haec` *māter* Mortis et Lētī **erat**. 
-`Illīus` *fīliī* horribilia `mōnstra` **erant**: **`Typhon`**, **`Python`**, et **`Cyclōpēs`**. 
-**`Typhon`** et **`Python`** *`dracōnēs`* ingentēs **erant** et **`Cyclōpēs`** fabrī brūtī. 
-Sed *frāter* `eōrum` **`Ūranus`**, prīmus ipse rēx deōrum. 
+*Chaos* prīmus deōrum **erat**.
+*Fīliae* eius, **Nox** et Terra, māter omnium hominum, **erant**. (**"Nox" is not a verb**)
+Haec *māter* Mortis et Lētī **erat**.
+Illīus *fīliī* horribilia mōnstra **erant**: **Typhon**, **Python**, et **Cyclōpēs**.  (**The names "Typhon, Python, et Cyclōpēs" are not verb forms**)
+**Typhon** et **Python** *dracōnēs* ingentēs **erant** et **Cyclōpēs** fabrī brūtī.
+Sed *frāter* eōrum **Ūranus**, prīmus ipse rēx deōrum. (**"Uranus" is not a verb form**)
 *Hic* fortis et magnus **erat**, sed sapiēns.
 
 ### **A. Grammatical Analysis**
 
-Surround all the verbs with two asterisks. (These will display as bold text.) 
+Surround all the verbs with two asterisks. (These will display as bold text.)
 Surround all the subjects with one asterisk. (These will display as italic text.)
 
 ### **B. Grammatical Questions**
@@ -30,7 +32,7 @@ Surround all the subjects with one asterisk. (These will display as italic text.
 2. What type of word is *haec*?
 > **Word Type**: Haec is a female pronoun in the Nominative singular case. Its meaning in English is this/these.
 
-3. To whom does *illius* refer?
+3. To whom does *illius* refer? (**There is an even *closer* name that it could refer to.**)
 > **Name**: Mortis.
 
 4. What case, number, and gender is *monstra*?
@@ -38,7 +40,7 @@ Surround all the subjects with one asterisk. (These will display as italic text.
 
 > **Number**: Plural.
 
-> **Gender**: Nueter.
+> **Gender**: Neuter.
 
 5. What declension does the word *dracōnēs* belong to?
 > **Declension**: Third declension.
@@ -59,10 +61,10 @@ Surround all the subjects with one asterisk. (These will display as italic text.
 ### **C. Translation**
 
 Please translate the passage into idiomatic English.
-> Chaos was the first god. 
+> Chaos was the first god.
 His daughters were Nox, the mother of all man, and Terra, the goddess Earth.
-She was the mother of the god Death and destruction. 
-His sons, Typhon, Python, and Cyclopes, were horrible monsters. 
-The huge dragons were Typhon and Python, abd Cyclopes a foolish stoneworker. 
-But, his brother, Uranus, was the first king of the gods. 
+She was the mother of the god Death and destruction.
+His sons, Typhon, Python, and Cyclopes, were horrible monsters.
+The huge dragons were Typhon and Python, and Cyclopes a foolish stoneworker. (**What number is *fabri bruti*?**)
+But, his brother, Uranus, was the first king of the gods.
 He was strong and large, but wise.
