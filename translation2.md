@@ -1,3 +1,7 @@
+**Needs revisions**
+
+**You're making this way harder than what the instructions asked for.  For the analysis, you can just highlight subjects and verbs in the paragraph below.**
+**Please be sure to answer the grammatical questions in part B.**
 # Translation 2
 
 ## **Passage to analyze**
@@ -16,13 +20,13 @@ Fīlia eōrum erat Pyrrha, prīma mortālis.
 > **Verb:** fingēbat
 
 >> person: 3rd
-  
+
 >> number: singular
-  
+
 >> tense: imperfect
-  
+
 >> voice: active
-  
+
 >> mood: indicative
 
 >> conjugation: 3rd
@@ -65,7 +69,7 @@ Fīlia eōrum erat Pyrrha, prīma mortālis.
 
 >> meaning: "to make/do"
 
-> **Sentence Structure:** Transitive 
+> **Sentence Structure:** Transitive
 
 > Simul: indeclinable preposition meaning "at the same time"
 
@@ -139,7 +143,7 @@ Fīlia eōrum erat Pyrrha, prīma mortālis.
 
 >> person: 3rd
 
->> number: singular 
+>> number: singular
 
 >> tense: imperfect
 
@@ -181,7 +185,7 @@ Fīlia eōrum erat Pyrrha, prīma mortālis.
 
 >> meaning: "to give"
 
-> **Sentence Structure:** Linking 
+> **Sentence Structure:** Linking
 
 > Pandōra: noun (Subject) in the nominative singular form meaning "Pandora"
 
