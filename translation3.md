@@ -3,11 +3,11 @@
 # Translation 3
 
 *Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor.
-illō tempōre, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās **oppugnandās**, sed hic **victus est**.  (**Note that *oppugnandas* is not a conugated (or "finite") verb.**)
-*Neptūnus*, infestus quod fīlius ab Erechtheō **interfectus est**, **dīxit** “Erecthei fīlia **immolanda est**.”  (**You've identified 3 verbs but only one subject.  Is that right?**)
+`illō tempōre`, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās **oppugnandās**, sed hic **victus est**.  (**Note that *`oppugnandas`* is not a conugated (or "finite") verb.**)
+*Neptūnus*, infestus quod *fīlius* ab Erechtheō **`interfectus est`**, **dīxit** “*Erecthei* fīlia **`immolanda est`**.”  
 itaque *Chthonia*, fīliārum ūna, **immolāta est**.
-*ceterae sorōrēs* sē **interfēcērunt**;
-ipse *Erechtheus* ab fulmine **ictus est**.
+*`ceterae sorōrēs`* sē **interfēcērunt**;
+ipse *Erechtheus* `ab fulmine` **ictus est**.
 
 ## A. Grammatical Analysis
 
@@ -20,9 +20,7 @@ Surround all the subjects with one asterisk. (These will display as italic text.
 
 What case is the phrase illō tempōre and why is it in that case?
 
-> The ablative is used to show a separation between Erechtheus and Neptune's son, Eumolpus.
-
-**Think about the meaning of the word *tempore* (from *tempus, temporis*).  It's not describing a separation between Erechtheus and Eumolpus.**
+> The ablative is used to show that during the time that Erechtheus had four daughters, Neptune's son, Eumolpus went to attack Athens.
 
 What part of speech is oppugnandās?
 
