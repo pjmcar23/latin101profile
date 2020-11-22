@@ -32,7 +32,7 @@ Surround all the subjects with one asterisk. (These will display as italic text.
 2. What type of word is *haec*?
 > **Word Type**: Haec is a female pronoun in the Nominative singular case. Its meaning in English is this/these.
 
-3. To whom does *illius* refer? (**There is an even *closer* name that it could refer to.**)
+3. To whom does *illius* refer? 
 > **Name**: The mother of Mortis and Leti.
 
 4. What case, number, and gender is *monstra*?
