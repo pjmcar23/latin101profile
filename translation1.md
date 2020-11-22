@@ -6,15 +6,15 @@
 
 Notes on formatting:
 
-Names **formatted like this** are names of gods in the nominative case and can be translated simply by reproducing the Latin form (e.g. in your translation **Chaos** will appear as “Chaos”).
+Names `formatted like this` are names of gods in the nominative case and can be translated simply by reproducing the Latin form (e.g. in your translation `Chaos` will appear as “Chaos”).
 Highlighting like this indicates words referred to in grammatical questions.
 
-*Chaos* prīmus deōrum **erat**.
-*Fīliae* eius, *Nox* et Terra, māter omnium hominum, **erant**. 
+`*Chaos*` prīmus deōrum **erat**.
+*Fīliae* eius, `*Nox*` et Terra, māter omnium hominum, **erant**. 
 Haec *māter* Mortis et Lētī **erat**.
-Illīus *fīliī* horribilia mōnstra **erant**: *Typhon*, *Python*, et *Cyclōpēs*.  
-**Typhon** et **Python** *dracōnēs* ingentēs **erant** et **Cyclōpēs** fabrī brūtī.
-Sed *frāter* eōrum *Ūranus*, prīmus ipse rēx deōrum. 
+Illīus *fīliī* horribilia mōnstra **erant**: `*Typhon*`, `*Python*`, et `*Cyclōpēs*`.  
+`Typhon` et `Python` *dracōnēs* ingentēs **erant** et `Cyclōpēs` fabrī brūtī.
+Sed *frāter* eōrum `*Ūranus*`, prīmus ipse rēx deōrum. 
 *Hic* fortis et magnus **erat**, sed sapiēns.
 
 ### **A. Grammatical Analysis**
