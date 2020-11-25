@@ -1,3 +1,5 @@
+**Needs revisions**
+
 # Composition 2
 
 ## Analysis
@@ -30,7 +32,7 @@ Subject: Prometheus
 
 > Translation: Prometheus
 
-Other words: 
+Other words:
 
 > gods (noun)
 
@@ -88,7 +90,7 @@ Subject: Prometheus
 
 > Translation: ipse
 
-Other words: 
+Other words:
 
 > fire (noun)
 
@@ -152,7 +154,7 @@ Subject: Prometheus
 
 > Translation: Prometheus
 
-Other words: 
+Other words:
 
 > gods (noun)
 
@@ -198,7 +200,7 @@ Subject: An eagle
 
 > Translation: aquila
 
-Other words: 
+Other words:
 
 > Prometheus (noun)
 
@@ -250,7 +252,7 @@ Subject: Hercules
 
 > Translation: Hercules
 
-Other words: 
+Other words:
 
 > the eagle (noun)
 
@@ -268,8 +270,8 @@ Latin: illam Hercules interfēcīt.
 
 ## Final Translation
 
-Prometheus ignem ē deīs capiēbat.
-Ipse ignī omnēs hominēs dabat.
+Prometheus ignem ē deīs capiēbat. **1) Use the preposition *a/ab* rather than *e/ex* to express the idea of taking away *from* the gods. 2)  Why did you choose imperfect rather than perfect tense for your verb?**
+Ipse ignī omnēs hominēs dabat.  **1) What case is *igni*?  2) Did you deliberately choose imperfect rather than perfect tense?**
 Prometheus a deīs punītus est.
-Aquila Prometheum cor oppunavit.
+Aquila Prometheum cor oppunavit. **1) What case is *Prometheus*?  2) A better verb from your vocabulary list would be *peto, petere, petivi, petitus*.  Can you change your sentence to use it instead of *oppugno*?**
 Illam Hercules interfēcīt.
