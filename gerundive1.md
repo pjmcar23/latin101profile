@@ -1,6 +1,3 @@
-** Needs correction**
-
-
 # Gerundive 1
 
 ## Questions
@@ -13,7 +10,7 @@ b. what is the gerundive?
 
 c. what noun or pronoun does the gerundive modify?
 
-d. what is the form of gerundive (gender case and number) ?
+d. what is the form of gerundive (gender, case, number) ?
 
 ## Answers
 
@@ -25,17 +22,17 @@ d. what is the form of gerundive (gender case and number) ?
 
 > 1c. canem.
 
-> 1d. masculine accusative singular.
+> 1d. masculine, accusative, singular.
 
 2. Atreus mittit Agamemnonem et Menelaum filios ad quaerendum Thyestem.
 
 > 2a. mittit.
 
-> 2b. quaerentum. **You obviously know the answer: please fix the speling.**
+> 2b. quaerendum. 
 
 > 2c. Thyestem.
 
-> 2d. masculine accusative singular.
+> 2d. masculine, accusative, singular.
 
 3. Ulixes cum Diomede ad Iphigeniam missus est adducendam.
 
@@ -45,7 +42,7 @@ d. what is the form of gerundive (gender case and number) ?
 
 > 3c. Iphigeniam.
 
-> 3d. feminine accusative singular.
+> 3d. feminine, accusative, singular.
 
 4. cum Graeciae ducibus ad eum expugnandum venit.
 
@@ -55,7 +52,7 @@ d. what is the form of gerundive (gender case and number) ?
 
 > 4c. eum.
 
-> 4d. masculine accusative singular.
+> 4d. masculine, accusative, singular.
 
 5. Metapontus venit ad Dianam Metapontinam ad sacrum faciendum.
 
@@ -65,7 +62,7 @@ d. what is the form of gerundive (gender case and number) ?
 
 > 5c. sacrum.
 
-> 5d. neuter accusative singular.
+> 5d. neuter, accusative, singular.
 
 6. infantem nutrici dedit exponendum.
 
@@ -75,7 +72,7 @@ d. what is the form of gerundive (gender case and number) ?
 
 > 6c. infantem.
 
-> 6d. masculine accusative singular.
+> 6d. masculine, accusative, singular.
 
 7. nomen patris ei dandum est.
 
@@ -85,4 +82,4 @@ d. what is the form of gerundive (gender case and number) ?
 
 > 7c. nomen.
 
-> 7d. neuter nominative singular.
+> 7d. neuter, nominative, singular.
