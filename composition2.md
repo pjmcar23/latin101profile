@@ -14,13 +14,13 @@ Verb: stole (to seize)
 
 > Number: singular
 
-> Tense: imperfect
+> Tense: perfect
 
 > Voice: active
 
 > Principle Part: 2
 
-> Translation: capiēbat
+> Translation: cēpit
 
 Subject: Prometheus
 
@@ -31,8 +31,6 @@ Subject: Prometheus
 > Number: singular
 
 > Translation: Prometheus
-
-Other words:
 
 > gods (noun)
 
@@ -90,17 +88,15 @@ Subject: Prometheus
 
 > Translation: ipse
 
-Other words:
-
 > fire (noun)
 
->> Case: dative
+>> Case: ablative
 
 >> Gender: masculine
 
 >> Number: singular
 
->> Translation: ignī
+>> Translation: igne
 
 > mankind (noun)
 
@@ -154,8 +150,6 @@ Subject: Prometheus
 
 > Translation: Prometheus
 
-Other words:
-
 > gods (noun)
 
 >> Case: ablative
@@ -182,13 +176,13 @@ Verb: attacked (to attack)
 
 > Number: singular
 
-> Tense: perfect
+> Tense: imperfect
 
 > Voice: active
 
 >> Principle Part: 3
 
-> Translation: oppunavit
+> Translation: petēbat
 
 Subject: An eagle
 
@@ -200,17 +194,15 @@ Subject: An eagle
 
 > Translation: aquila
 
-Other words:
-
 > Prometheus (noun)
 
->> Case: accusative
+>> Case: dative
 
 >> Gender: masculine
 
 >> Number: singular
 
->> Translation: Prometheum
+>> Translation: Prometheō
 
 > heart (noun)
 
@@ -252,8 +244,6 @@ Subject: Hercules
 
 > Translation: Hercules
 
-Other words:
-
 > the eagle (noun)
 
 >> Case: accusative
@@ -270,8 +260,8 @@ Latin: illam Hercules interfēcīt.
 
 ## Final Translation
 
-Prometheus ignem ē deīs capiēbat. **1) Use the preposition *a/ab* rather than *e/ex* to express the idea of taking away *from* the gods. 2)  Why did you choose imperfect rather than perfect tense for your verb?**
-Ipse ignī omnēs hominēs dabat.  **1) What case is *igni*?  2) Did you deliberately choose imperfect rather than perfect tense?**
+Prometheus ignem a deīs cēpit. 
+Ipse igne omnēs hominēs dabat.  
 Prometheus a deīs punītus est.
-Aquila Prometheum cor oppunavit. **1) What case is *Prometheus*?  2) A better verb from your vocabulary list would be *peto, petere, petivi, petitus*.  Can you change your sentence to use it instead of *oppugno*?**
+Aquila cor Prometheō petēbat. 
 Illam Hercules interfēcīt.
