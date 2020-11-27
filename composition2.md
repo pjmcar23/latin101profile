@@ -1,5 +1,3 @@
-**Needs revisions**
-
 # Composition 2
 
 ## Analysis
