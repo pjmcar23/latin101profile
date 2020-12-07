@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 # Deliberative Questions with the Subjunctive
 
 1a. necet
