@@ -1,3 +1,5 @@
+**Needs revisions**
+
 # Composition 1
 
 ## **Instructions**
@@ -29,9 +31,9 @@ Your paragraph should use either an intensifying adjective or an adjective of �
 4) Your fourth sentence should express that Venus was the wife of Vulcānus.
 
 5) Your fifth sentence should use:
-  
+
 >  a) a demonstrative pronoun as the subject (with Venus as its antecedent)
-  
+
 >  b) a past tense form of the verb “to be” (in the proper person and number)
 
 > c) a predicate nominative that describes Venus in the proper case and number
@@ -40,7 +42,7 @@ Your paragraph should use either an intensifying adjective or an adjective of �
 
 ### **Sentence 1**
 
-**English:** Luppiter and Lūnō were king and queen of the gods.
+**English:** Iuppiter and Iūnō were king and queen of the gods.
 
 > **Verb:** were
 
@@ -58,11 +60,11 @@ Your paragraph should use either an intensifying adjective or an adjective of �
 
 > **Sentence Structure:** Transitive
 
-> Luppiter: noun (Subject) in the nominative singular form meaning "Luppiter"
+> Iuppiter: noun (Subject) in the nominative singular form meaning "Iuppiter"
 
 > and: indeclinable conjunction meaning "et"
 
-> Lūnō: noun (Subject) in the nominative singular form meaning "Lūnō"
+> Iūnō: noun (Subject) in the nominative singular form meaning "Iūnō"
 
 > king: noun (direct object) in the accusative singular form meaning "rēgem"
 
@@ -90,11 +92,11 @@ Your paragraph should use either an intensifying adjective or an adjective of �
 
 > **Sentence Structure:** Linking
 
-> Their: pronoun in the nominative plural form (referring to Luppiter and Lūnō) meaning "ea" 
+> Their: pronoun in the nominative plural form (referring to Iuppiter and Iūnō) meaning "ea"
 
 > sons: noun (Subject) in the nominative plural form meaning "filiī"
 
-> Mārs: noun (Predicate) in the nominative singular form meaning "Mārs" 
+> Mārs: noun (Predicate) in the nominative singular form meaning "Mārs"
 
 > and: indeclinable conjunction meaning "et"
 
@@ -102,7 +104,7 @@ Your paragraph should use either an intensifying adjective or an adjective of �
 
 ### **Sentence 3**
 
-**English:** Luppiter had another daughter named Minerva, she was the sister of Mārs and Vulcānus.
+**English:** Iuppiter had another daughter named Minerva, she was the sister of Mārs and Vulcānus.
 
 > **Verb:** had
 
@@ -120,7 +122,7 @@ Your paragraph should use either an intensifying adjective or an adjective of �
 
 > **Sentence Structure:** Linking
 
-> Luppiter: noun (Subject) in the nominative singular form meaning "Luppiter" 
+> Iuppiter: noun (Subject) in the nominative singular form meaning "Iuppiter"
 
 > another: adjective in the nominative singular form meaning "alterum"
 
@@ -198,7 +200,7 @@ Your paragraph should use either an intensifying adjective or an adjective of �
 
 >> voice: active
 
->> meaning: "erat" 
+>> meaning: "erat"
 
 > **Sentence Structure:** Linking
 
@@ -210,8 +212,9 @@ Your paragraph should use either an intensifying adjective or an adjective of �
 
 ## **Translation**
 
-Luppiter et lūnō erant rēgem et rēgīnam deōrum. 
-Fīliī ea erant Mārs et Vulcānus.
-Luppiter habuit alterum fīlia cognominata Minerva, ipsa erat soror Martis at Vulcānī.
+Iuppiter et Iūnō erant rēgem et rēgīnam deōrum.  **What case do you need for the predicate of a linking verb?**
+Fīliī ea erant Mārs et Vulcānus.  **1) What Latin case expresses the idea "children *of Mars and Vulcan*"? 2) What form is *ea*?**
+Iuppiter habuit alterum fīlia Minerva, **what case is *filia*?  What noun does *alterum* agree with?**
+ipsa erat soror Martis et Vulcānī.
 Venus uxor Vulcānī erat.
-Ipsa diva amoris erat.
+Ipsa diva amoris erat. **Use the noun *deus* rather than the adjective *divus* to express the idea "goddess of ..."**

@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 # Irregular Verbs
 
 1. tulit: third person, singular, perfect, indicative, active
