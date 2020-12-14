@@ -48,6 +48,6 @@ Please answer the following questions about each of the following setences. Ente
 
 4b. subjunctive
 
-4c. imperfect **If all your other examples of imperfect subjunctive are contemporary, why would this one be earlier?**
+4c. imperfect 
 
-4d. earlier
+4d. contemporary
