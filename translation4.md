@@ -14,10 +14,10 @@ In eō **collēctī sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, 
 et in equō **scripsērunt** “*DANAI* MINERVAE DONUM **DANT**”,
 castraque **transtulērunt** Tenedo.
 Cum id *Troianī* **vidērunt**,
-**arbitratī sunt** *hostēs* abisse;
+**arbitratī sunt** *hostēs* **abisse**;
 *Priamus* **imperāvit** *equum* in templum Minervae **ducī**.
 Cum *vātēs*, Cassandra, **diceret** *equum* **habere** hostes,
-*fidēs eī* **data non est** et equum pro templō **posuērunt**.
+*fidēs* eī **data non est** et equum pro templō **posuērunt**.
 *Achīvī* **exiērunt** portārumque custodēs **occidērunt** et Troiam **sunt potitī**.
 
 ## A. Grammatical Analysis
@@ -26,18 +26,12 @@ Surround all the verbs with two asterisks. (These will display as bold text.)
 
 Surround all the subjects with one asterisk. (These will display as italic text.)
 
-
-**Can you find a verb for the indirect statement after *arbitrati sunt*?**
-
-**What case is *ei*?**
-
-
 ## B. Grammatical Questions
 
 1. What case is decem annōs and why?
 
-   Accusative. It is the direct object that receives the direct impact from the ten. **Yes, accusative, but not a direct object.**
-
+   Accusative. An object that receives the direct impact from the number ten. 
+   
 2. Parse possent (PNTMV) and explain its mood.
 
    3rd person, plural, imperfect, subjunctive, active
@@ -50,7 +44,7 @@ Surround all the subjects with one asterisk. (These will display as italic text.
 
 4. What type of verb is arbitrati sunt?
 
-   3rd person, plural, perfect, indicative, passive **Yes, a passive form -- with an active meaning (what we call a "deponent" verb).**
+   3rd person, plural, perfect, indicative, passive (Has an active meaning therefore is a deponent verb).
 
 5. What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci?
 Identify its constituent parts.
@@ -71,7 +65,7 @@ Identify its constituent parts.
 
 7. What case is ei and what role is it playing in the sentence?
 
-   Nominative. It is playing the pronoun of the prophet Cassandra. **Nominative singular forms of the pronoun are *is, ea, id*.  What case could *ei* be if it refers to Cassandra?**
+   Dative. It is playing the pronoun of the prophet Cassandra. 
 
 8. What is the function of the que in portārumque?
 
@@ -80,11 +74,11 @@ Identify its constituent parts.
 ## C. Translation
 
 When the Greeks were unable to seize Troy after ten years, Epeus made a wood horse of amazing size.
-Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus were to gather in it. **What is the form of the verb?**
-And written on the horse was "GIFT GIVEN TO MINERVA BY THE GREEKS".  **What voice is *scripsērunt*?**
-When Troy saw it, **This is from *Trioanus*, not from *Troia*.**
-they judged that the enemy went away; **What tense is the infinitive *abisse*.**
+Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus had gathered in it. 
+And on the horse wrote "GIFT GIVEN TO MINERVA BY THE GREEKS". 
+When Trioanus saw it, 
+they judged the enemy to go away; 
 Priamus commanded that the horse be lead into the temple of Minerva.  
-When the prophet, Cassandra, spoke **What kind of construction follows *diceret*, "she said"?**
-the horse had ememies, no faith was given to her and the horse was placed in front of the temple. **What voice is *posuērunt*?**
-The Greeks went out and killed the guards of the gates and conquered Troy. **Check out the forms of these verbs with attention to voice.**
+When the prophet, Cassandra, said 
+"the horse has ememies", no faith was given to her and placed the horse in front of the temple. 
+The Greeks went out to the gates and killed the guards and conquered Troy. 
