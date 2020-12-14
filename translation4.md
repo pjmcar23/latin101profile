@@ -81,4 +81,4 @@ they judged the enemy to go away;
 Priamus commanded that the horse be lead into the temple of Minerva.  
 When the prophet, Cassandra, said 
 "the horse has ememies", no faith was given to her and placed the horse in front of the temple. 
-The Greeks went out to the gates and killed the guards and conquered Troy. 
+The Greeks went out to the gates and killed the guards and were to conquer Troy. 
