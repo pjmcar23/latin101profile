@@ -20,37 +20,41 @@ Translation:
 
 ### Sentence 3 (cum clause with the correct tense of the subjunctive)
 
-When Hercules heard of Lycus’ plan he returned and killed him.
+When Hercules heard of this, he quickly returned and killed Lycus.
 
 Translation:
 
->
+> Cum Hercules audīvit huīus, is revertit occīditque Lycum.
 
 ### Sentence 4
 
-Hercules was punished by Juno because of his bad deed 
+Because of his bad deed, Hercules was to be punished by Juno.
 
 Translation:
 
->
+> Ob is malum factum, Hercules apud Jūnōnem punītus est.
 
 ### Sentence 5
 
-Hercules’ mind was possessed by Juno and that he killed his family.
+The goddess seized the mind of Hercules and he killed Megara and his sons.
 
 Translation:
 
->
+> Dea animum Herculis cēpit et is Megaram et fīliōs occīdit.
 
 ### Sentence 6
 
-following this event, Hercules did not want to live and was given into slavery.
+Afterwards Hercules did not want to live and was given into slavery.
 
 Translation:
 
->
+> Posteā Hercules nōluit vīvō et in servitium datus est.
 
 ## Translation
 
 Lycus putāvit Herculem mortuem esse quod eum missem est pugnaverat Cerberō, tricipitī canī.
 Ideō, Lycus voluit occīdēbat Megaram, fīlia Creontis et uxor Herculis, et fīliōs, Therimachum et Ophitem, capēbatque eum regnum.
+Cum Hercules audīverit huīus, is reverterit occīderitque Lycum.
+Ob is malum factum, Hercules apud Jūnōnem punītus est.
+Dea animum Herculis cēpit et is Megaram et fīliōs occīdit.
+Posteā Hercules nōluit vīvō et in servitium datus est.
