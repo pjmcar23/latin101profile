@@ -260,11 +260,11 @@ is also divine (adj.)
 
 ## Translation
 
-Venus et Mars clam concumbēbant.
+Venus cum Marte clam concumbēbant.
 Factum Vulcanō indicāndum erat.
-Vulcanus catēnam ex adamane fēcit, tum catēna circum lectum posuit.
-Venus et Mars ea dolī neque visus sunt.
-Ea ā lectō neque potuit fugiēbant.
-Tunc deī eīs vīcērunt vidēndus.
-Causā amoris, Mars pudōris sentiēbat.
-Dīvīnum amābat at dīvīnum errābat.
+Vulcanus catēnam ex adamantis fēcit et catena posita est circum lectum Veneris et Martis.
+Venus et Mars eam dolī non viderunt.
+Id non potebant fugere ā lectō. 
+Dei vocatī sunt ad eōs videndōs. 
+Mars sensit poderum ob id.
+"Amare dīvīnum est, errare dīvīnum est."
